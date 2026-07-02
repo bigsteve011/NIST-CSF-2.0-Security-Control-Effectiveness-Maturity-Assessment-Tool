@@ -656,7 +656,7 @@ Timeline: Phase 1 (0-6mo), Phase 2 (6-12mo), Phase 3 (12-24mo)
 
 ## License & Attribution
 
-**Author:** Cybersecurity GRC Professional  
+**Author:** Stephen OMOWUMI, (Cybersecurity GRC Professional)  
 **Framework:** NIST Cybersecurity Framework 2.0  
 **License:** MIT (Open source, use commercially)
 
