@@ -1,5 +1,13 @@
 # NIST CSF 2.0 Security Control Effectiveness & Maturity Assessment Tool
 
+**A structured control-effectiveness and remediation-governance model that evaluates security maturity through their full lifecycle — assessment, design-maturity scoring, effectiveness-factor measurement, control-gap analysis, and auditable remediation prioritization.**
+
+![Domain](https://img.shields.io/badge/Domain-Control%20Effectiveness%20%26%20Maturity-0b3d5c)
+![NIST CSF](https://img.shields.io/badge/NIST%20CSF-2.0-1f6f78)
+![ISO 27001](https://img.shields.io/badge/ISO%2FIEC%2027001-2022-1f6f78)
+![Methodology](https://img.shields.io/badge/Methodology-Maturity%20%26%20Effectiveness%20Assessment-amber?color=d4a017)
+![Status](https://img.shields.io/badge/Type-Control%20Governance%20Assessment-6c757d)
+
 **Bridge the Gap Between "Compliance on Paper" and "Operational Reality"**
 
 An enterprise-grade Python tool that measures security control maturity and effectiveness across the NIST Cybersecurity Framework 2.0, identifying gaps between controls-as-designed and controls-as-implemented, with automated actionable recommendations.
